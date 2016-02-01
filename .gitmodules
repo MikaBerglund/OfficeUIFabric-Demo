@@ -1,0 +1,4 @@
+[submodule "external/Office-UI-Fabric"]
+	path = external/Office-UI-Fabric
+	url = https://github.com/MikaBerglund/Office-UI-Fabric.git
+	branch = Dev
